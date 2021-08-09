@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="AnimatedSticker.gif">
+<img src="AnimatedSticker.webp">
 
 I'm MOSTAFA SHARIATZADEH
 <br>
