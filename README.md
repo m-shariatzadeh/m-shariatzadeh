@@ -15,3 +15,6 @@ I'm interested in backend development.
 - Bootstrap
 - API 
 - Axios
+
+### Social media
+- <a href="t.me/m_shariatzadeh">Telegram</a>
