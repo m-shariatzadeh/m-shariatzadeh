@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="animated.gif">
+
 I'm MOSTAFA SHARIATZADEH
 <br>
 FROM IRAN 🇮🇷
