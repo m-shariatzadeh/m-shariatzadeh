@@ -17,4 +17,4 @@ I'm interested in backend development.
 - Axios
 
 ### Social media
-- <a href="t.me/m_shariatzadeh">Telegram</a>
+- <a href="https://t.me/m_shariatzadeh">Telegram</a>
