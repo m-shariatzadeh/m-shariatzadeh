@@ -18,3 +18,4 @@ I'm interested in backend development.
 
 ### Social media
 - <a href="https://t.me/m_shariatzadeh">Telegram</a>
+- <a href="https://Instagram.com/m_shariatzadeh">Instagram</a>
