@@ -18,8 +18,6 @@ I'm interested in backend development.
 - Bootstrap
 - API 
 - Axios
-- Livewire
-- socket.io
 
 ### Social media
 - <a href="https://t.me/m_shariatzadeh">Telegram</a>
