@@ -6,7 +6,7 @@ I'm MOSTAFA SHARIATZADEH
 <br>
 FROM IRAN 🇮🇷
 
-I'm Back-end developer. 
+Back-end developer. 
 
 ### My Skills
 
@@ -21,5 +21,5 @@ I'm Back-end developer.
 - webscrap
 
 ### Social media
--<a href="https://www.linkedin.com/in/m-shariatzadeh">Instagram</a>
-- <a href="https://Instagram.com/m_shariatzadeh">Instagram</a>
+-<a href="https://www.linkedin.com/in/m-shariatzadeh">LinkedIn</a>
+-<a href="https://Instagram.com/m_shariatzadeh">Instagram</a>
