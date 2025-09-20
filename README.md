@@ -6,7 +6,7 @@ I'm MOSTAFA SHARIATZADEH
 <br>
 FROM IRAN 🇮🇷
 
-I'm interested in backend development. 
+I'm Back-end developer. 
 
 ### My Skills
 
@@ -18,7 +18,8 @@ I'm interested in backend development.
 - Bootstrap
 - API 
 - Axios
+- webscrap
 
 ### Social media
-- <a href="https://t.me/m_shariatzadeh">Telegram</a>
+-<a href="https://www.linkedin.com/in/m-shariatzadeh">Instagram</a>
 - <a href="https://Instagram.com/m_shariatzadeh">Instagram</a>
